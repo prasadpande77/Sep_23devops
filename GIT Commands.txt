@@ -1,0 +1,24 @@
+Certainly! Here is a list of 20 initial Git commands that are commonly used:
+
+1. `git init`: Initializes a new Git repository in the current directory.
+2. `git clone [repository URL]`: Creates a copy of a remote Git repository on your local machine.
+3. `git add [file]`: Stages a file or changes for commit.
+4. `git status`: Shows the status of your working directory and staged changes.
+5. `git commit -m "[commit message]"`: Commits staged changes with a descriptive message.
+6. `git pull`: Fetches changes from a remote repository and merges them into the current branch.
+7. `git push`: Pushes local commits to a remote repository.
+8. `git branch`: Lists all branches in your repository.
+9. `git checkout [branch name]`: Switches to a different branch.
+10. `git merge [branch name]`: Merges changes from one branch into the current branch.
+11. `git log`: Shows a history of commits in the current branch.
+12. `git diff`: Displays the differences between the working directory and the last commit.
+13. `git remote -v`: Lists remote repositories linked to your local repository.
+14. `git fetch [remote]`: Fetches changes from a remote repository without merging.
+15. `git reset [file]`: Unstages changes for a specific file.
+16. `git reset --hard [commit hash]`: Resets the branch to a specific commit and discards changes.
+17. `git stash`: Temporarily saves changes that are not ready to be committed.
+18. `git tag [tag name]`: Creates a lightweight tag for a specific commit.
+19. `git rm [file]`: Removes a file from both the working directory and the Git repository.
+20. `git branch -d [branch name]`: Deletes a branch (use `-D` for force deletion).
+
+These commands will help you get started with Git and manage your version control workflow. Remember to refer to Git's documentation or use `git --help` for more information on each command and its options.
